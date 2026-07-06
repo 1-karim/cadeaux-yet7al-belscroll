@@ -1,4 +1,4 @@
-# KADO-IDOR
+# Cadeaux yet7al BELSCROLL
 
 This is a micro-project demonstrating a scroll-triggered animation using a pinned Three.js model.
 
